@@ -1,0 +1,11 @@
+{
+  "name": "project10_oop",
+  "version": "1.0.0",
+  "description": "this is just a simple introduction of oop and who to code practice with oops",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
