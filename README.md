@@ -1,7 +1,4 @@
-# project10_oop
-Certainly! Here's a basic GitHub project description for an Object-Oriented Programming (OOP) project using TypeScript:
-
----
+# project10_oops:
 
 ## Object-Oriented Programming (OOP) with TypeScript
 
@@ -49,8 +46,4 @@ This project aims to demonstrate fundamental Object-Oriented Programming (OOP) p
 Contributions are welcome! Feel free to fork the repository, create a new branch, and submit a pull request for any improvements or additional features.
 
 ### License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to adjust the sections and details based on your specific project requirements and structure.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
